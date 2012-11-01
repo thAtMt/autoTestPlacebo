@@ -1,0 +1,5 @@
+C:\Users\th\Documents\Visual Studio 2010\Projects\autoTestPlacebo\autoTestPlacebo\bin\Debug\autoTestPlacebo.exe
+C:\Users\th\Documents\Visual Studio 2010\Projects\autoTestPlacebo\autoTestPlacebo\bin\Debug\autoTestPlacebo.pdb
+C:\Users\th\Documents\Visual Studio 2010\Projects\autoTestPlacebo\autoTestPlacebo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\th\Documents\Visual Studio 2010\Projects\autoTestPlacebo\autoTestPlacebo\obj\x86\Debug\autoTestPlacebo.exe
+C:\Users\th\Documents\Visual Studio 2010\Projects\autoTestPlacebo\autoTestPlacebo\obj\x86\Debug\autoTestPlacebo.pdb
