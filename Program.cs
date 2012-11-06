@@ -10,7 +10,7 @@ namespace autoTestPlacebo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-            Console.WriteLine("Was cahnged to foo");
+            Console.WriteLine("Was cahnged to foo will comment AUTOMATION-3 :) ");
             Console.ReadKey();
         }
     }
