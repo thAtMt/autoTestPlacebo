@@ -10,7 +10,7 @@ namespace autoTestPlacebo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-            Console.WriteLine("Was changed will not be in list ");
+            Console.WriteLine("Was changed will not be in list AUTOMATION-17 ");
             Console.ReadKey();
         }
     }
